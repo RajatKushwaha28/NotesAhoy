@@ -1,0 +1,39 @@
+body{
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  	background-size: 100% 100%;	
+}
+.header{
+	padding-top:5px;
+	color:#30336b;
+	font-size: 50px;
+}
+.header1{
+	padding-top:1px;
+	color:#30336b;
+	font-size: 20px;
+}
+.header2{
+	padding-top:50px;
+	color:#30336b;
+	font-size: 20px;	
+}
+.button{
+	padding-top:50px;
+	margin-left:700px;
+}
+button{
+	width: 130px;
+    height: 40px;
+    font-weight: 500;
+    background: rgba(255, 255, 255, 0.4);
+    border: none;
+    border-radius: 30px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}

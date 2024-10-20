@@ -1,0 +1,22 @@
+input[type="date"] {
+  border-color:  #30336b;
+}
+
+input[type="time"] {
+  border-color:  #30336b;
+}
+input[type="text"] {
+  border-color:  #30336b;
+}
+textarea.form-control {
+  border-color: #30336b;
+  height: 250px;
+}
+
+.container .card {
+  border: 1px solid #30336b; 
+  background-color: beige;
+}
+body {
+  background-color: beige;
+}
