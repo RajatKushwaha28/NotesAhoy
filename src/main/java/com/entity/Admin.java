@@ -39,8 +39,8 @@ public class Admin {
 	}
 	public Admin() {
 		super();
-		this.email="notesahoy2024@gmail.com";
-		this.password="NotesAhoy";
+		this.email="your-email@gmail.com";
+		this.password="your app password";
 	}
 	@Override
 	public String toString() {
