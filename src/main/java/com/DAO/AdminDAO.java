@@ -55,7 +55,7 @@ public class AdminDAO {
 		Admin a = getAdmin();
         // Sender's email ID needs to be mentioned
         String from = a.getEmail();
-        String pass = "cwfs hapw sake texz";
+        String pass = "your app password";
         // Assuming you are sending email from through gmails smtp
         String host = "smtp.gmail.com";
 
